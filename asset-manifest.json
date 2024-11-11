@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/andikarifki/meal-app/static/css/main.98c00295.css",
+    "main.js": "/andikarifki/meal-app/static/js/main.333baa22.js",
+    "static/js/453.451a3c87.chunk.js": "/andikarifki/meal-app/static/js/453.451a3c87.chunk.js",
+    "index.html": "/andikarifki/meal-app/index.html",
+    "main.98c00295.css.map": "/andikarifki/meal-app/static/css/main.98c00295.css.map",
+    "main.333baa22.js.map": "/andikarifki/meal-app/static/js/main.333baa22.js.map",
+    "453.451a3c87.chunk.js.map": "/andikarifki/meal-app/static/js/453.451a3c87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c00295.css",
+    "static/js/main.333baa22.js"
+  ]
+}
